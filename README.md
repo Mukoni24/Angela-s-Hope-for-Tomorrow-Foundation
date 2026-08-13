@@ -156,11 +156,12 @@ Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 Available at: https://www.takealot.com/about
 [Accessed 1 August 2026].
 
-## Image References
-StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
-StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
+## Image References for the Word Document Proposal
+1. StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
+
+2. StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
 ### In the List of Figures: 
-Figure 2: StockCake. 2026.Sharing community spirit.
-Figure 3: StockCake. 2026.Tech store buzz.
+1. Figure 2: StockCake. 2026.Sharing community spirit.
+2. Figure 3: StockCake. 2026.Tech store buzz.
 
 
