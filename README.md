@@ -97,10 +97,10 @@ Testing will take place to identify problems with navigation links, inquiry form
 ### 7.	Corrections and Improvements: 12 August 2026
 The mistakes made in testing will be sorted out, and the website will be made more user-friendly.
 
-##3 8.	Final Review and Documentation: 13 August 2026
+### 8.	Final Review and Documentation: 13 August 2026
  The final website will then be evaluated according to the requirements of the project, and the required documentation and evidence will be completed.
  
-##3 9.	Final Submission: 14 August 2026
+### 9.	Final Submission: 14 August 2026
 The final website project and accompanying documentation will be submitted before the submission deadline.
 
 
