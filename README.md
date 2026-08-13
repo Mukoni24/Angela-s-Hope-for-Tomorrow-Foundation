@@ -103,7 +103,7 @@ The mistakes made in testing will be sorted out, and the website will be made mo
 ### 9.	Final Submission: 14 August 2026
 The final website project and accompanying documentation will be submitted before the submission deadline.
 
-## References in Proposal Word Document
+## References for Word Document Proposal
 1. Anon., n.d. About us.Afrika Tikkun. [Online] 
 Available at: https://afrikatikkun.org/about-us/
 [Accessed 1 August 2026].
