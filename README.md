@@ -42,11 +42,11 @@ The major purpose of the website is to develop a professional and user-friendly 
 
 ### Key Performance Indicators (KPIs)
 Performance of the website will be evaluated through:
-	Website traffic – visitor count and number of pages viewed.
-	Volunteer sign-ups – number of sign-ups.
-	Donations – number and value of donations.
-	Inquiries – number of inquiries.
-	Newsletter’s sign-ups – number of newsletter subscribers.
-	User engagement – engagements on programmes, events, and social media sites.
+1.	Website traffic – visitor count and number of pages viewed.
+2. Volunteer sign-ups – number of sign-ups.
+3.	Donations – number and value of donations.
+4. Inquiries – number of inquiries.
+5.	Newsletter’s sign-ups – number of newsletter subscribers.
+6. User engagement – engagements on programmes, events, and social media sites.
 
 
