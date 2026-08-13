@@ -75,5 +75,36 @@ Angela’s Hope Foundation website is meant to be an easily accessible platform 
 11.	Call to Action Elements – Actions like volunteering and donations will make sure that people become part of the activities of the foundation and its programs.
  
 
+## Timeline and Milestones:
+### 1.	Project Planning: 1 August 2026
+Website requirements and project goals will be discussed, and the website’s general structure will be formulated.
+
+## 2.	Content Preparation: 2 - 3 August 2026
+Content for the About Us, Programmes, Gallery, News & Events, Contact Us, and Enquiries sections will be prepared.
+
+## 3.	Wireframe and Layout Design: 4 - 5 August 2026
+Wireframes will be made to determine the positioning of navigation menus, headings, pictures, content, forms, and footers.
+
+## 4.	Website Development: 6-8 August 2026
+HTML will be used to build the website pages, including navigation, images, links, forms, and necessary content.
+
+## 5.	Styling and Content: 9 – 10 August 2026
+The typography, layouts, images, captions, colours, and other visual elements in the website will have a consistent arrangement.
+
+## 6.	Functionality Testing: 11 August 2026
+Testing will take place to identify problems with navigation links, inquiry forms, contact information and other interactive features.
+
+## 7.	Corrections and Improvements: 12 August 2026
+The mistakes made in testing will be sorted out, and the website will be made more user-friendly.
+
+## 8.	Final Review and Documentation: 13 August 2026
+ The final website will then be evaluated according to the requirements of the project, and the required documentation and evidence will be completed.
+ 
+## 9.	Final Submission: 14 August 2026
+The final website project and accompanying documentation will be submitted before the submission deadline.
+
+12.	Call to Action Elements – Actions like volunteering and donations will make sure that people become part of the activities of the foundation and its programs.
+ 
+
 
 
