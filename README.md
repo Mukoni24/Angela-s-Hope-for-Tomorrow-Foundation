@@ -104,50 +104,62 @@ The mistakes made in testing will be sorted out, and the website will be made mo
 The final website project and accompanying documentation will be submitted before the submission deadline.
 
 ## References in Proposal Word Document
-Anon., n.d. About us.Afrika Tikkun. [Online] 
+1. Anon., n.d. About us.Afrika Tikkun. [Online] 
 Available at: https://afrikatikkun.org/about-us/
 [Accessed 1 August 2026].
-Bootstrap, 2025. Bootstrap documentation. [Online] 
+
+2. Bootstrap, 2025. Bootstrap documentation. [Online] 
 Available at: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [Accessed 1 August 2026].
-Bootstrap, 2025. Bootstrap documentation. [Online] 
+
+3. Bootstrap, 2025. Bootstrap documentation. [Online] 
 Available at: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [Accessed 1 August 2026].
-GitHub Inc, n.d. GitHub Docs. [Online] 
+
+4. GitHub Inc, n.d. GitHub Docs. [Online] 
 Available at: https://docs.github.com/en
 [Accessed 1 August 2026].
-GitHub, n.d. GitHub documentation. [Online] 
+
+5. GitHub, n.d. GitHub documentation. [Online] 
 Available at: https://docs.github.com/en
 [Accessed 1 August 2026].
-Google Search Central, n.d. Search engine optimisation(SEO). [Online] 
+
+6. Google Search Central, n.d. Search engine optimisation(SEO). [Online] 
 Available at: https://developers.google.com/search/docs
 [Accessed 1 August 2026].
-Mozilla Developer Network, n.d. HTML: Hypertext Markup Language.MDN Web Docs. [Online] 
+
+7. Mozilla Developer Network, n.d. HTML: Hypertext Markup Language.MDN Web Docs. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
 [Accessed 1 August 2026].
-Mozilla Developer Network, n.d. CSS: Cascading Style Sheets. [Online] 
+
+8. Mozilla Developer Network, n.d. CSS: Cascading Style Sheets. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Accessed 1 August 2026].
-Mozilla Developer Network, n.d. CSS: Cascading Style Sheets.MDN Web Docs. [Online] 
+
+9. Mozilla Developer Network, n.d. CSS: Cascading Style Sheets.MDN Web Docs. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Accessed 1 August 2026].
-Mozilla Developer Network, n.d. HTML: Hypertext Markup Language. [Online] 
+
+10. Mozilla Developer Network, n.d. HTML: Hypertext Markup Language. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
 [Accessed 1 August 2026].
-Mozilla Developer Network, n.d. JavaScript. [Online] 
+
+11. Mozilla Developer Network, n.d. JavaScript. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Accessed 1 August 2026].
-Mozilla Developer Network, n.d. JavaScript.MDN Web Docs. [Online] 
+
+12. Mozilla Developer Network, n.d. JavaScript.MDN Web Docs. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Accessed 1 August 2026].
-Takealot, n.d. About us. [Online] 
+
+13. Takealot, n.d. About us. [Online] 
 Available at: https://www.takealot.com/about
 [Accessed 1 August 2026].
 
- Image References
+## Image References
 StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
 StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
-In the List of Figures: 
+### In the List of Figures: 
 Figure 2: StockCake. 2026.Sharing community spirit.
 Figure 3: StockCake. 2026.Tech store buzz.
 
