@@ -49,4 +49,31 @@ Performance of the website will be evaluated through:
 5.	Newsletter’s sign-ups – number of newsletter subscribers.
 6. User engagement – engagements on programmes, events, and social media sites.
 
+## Proposed Website Features and functionality: 	
+Angela’s Hope Foundation website is meant to be an easily accessible platform that can enable people to find out more information on the organization and its various activities. Some of the important features and functions of the website include:
+
+1.	Home page - This page would provide introduction about Angela’s Hope Foundation by means of its logo, slogan, information and a community-based image. Navigation links will also be there for the convenience of the visitors.
+   
+2.	About Us – This page will contain information about the foundation, its history, its mission, its vision, and its purpose.
+   
+3.	Community Programmes - There will be an opportunity for visitors to learn about programs like education, food assistance, youth mentoring, skill development, and outreach programs.
+   
+4.	Gallery - In this section, photographs of the various activities and community programmes that the foundation undertakes will be displayed for visitors to see.
+   
+5.	News & Events – The latest updates regarding the foundation’s activities and events will be mentioned in this section.
+    
+6.	Volunteer Registration – Those who are willing to volunteer for the foundation shall have the option to learn more about volunteering opportunities and register themselves.
+    
+7.	Donations – The donations part of the website will contain information on how people can contribute to the foundation financially.
+    
+8.	Contact Us - Visitors can have access to contact information about the foundation and use the available means of communication to reach out.
+    
+9.	 Enquiries – Through an enquiry form, visitors will be able to contact the foundation with any queries or requests.
+    
+10.	Responsive Navigation – The navigation bar will contain links for the primary pages, and the responsiveness will enable the site to work well on all screen sizes.
+    
+11.	Call to Action Elements – Actions like volunteering and donations will make sure that people become part of the activities of the foundation and its programs.
+ 
+
+
 
