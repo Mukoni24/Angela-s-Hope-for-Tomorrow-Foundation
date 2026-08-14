@@ -217,15 +217,15 @@ https://stockcake.com/i/children-under-tree_1394170_880295 [Accessed 3 August 20
 https://stockcake.com/i/village-meeting-gathering_1131924_751096 [Accessed 3 August 
 2026].   
 
-27.StockCake. [n.d.]. Village Gathering Space. [electronic print]. Available at:  
+27. StockCake. [n.d.]. Village Gathering Space. [electronic print]. Available at:  
 https://stockcake.com/i/village-gathering-space_335374_722385 [Accessed 3 August 2026].  
 
 ###  List of Figures: 
-#### Word Document Figures
+#### Word Document:  Figures
 1. Figure 2: StockCake. 2026.Sharing community spirit.
 2. Figure 3: StockCake. 2026.Tech store buzz.
 
-### Websites Figures 
+### Website:  Figures 
 
 3. Figure 1: StockCake. [n.d.]. Village Gathering Space.  
 4. Figure 2: StockCake. [n.d.]. Charity Book Distribution.  
