@@ -209,8 +209,27 @@ https://stockcake.com/i/village-gathering-space_335374_722385 [Accessed 3 August
 1. StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
 
 2. StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
-### In the List of Figures: 
+   
+###  List of Figures: 
+#### Word Document Figures
 1. Figure 2: StockCake. 2026.Sharing community spirit.
 2. Figure 3: StockCake. 2026.Tech store buzz.
+
+### Websites Figures 
+
+3. Figure 1: StockCake. [n.d.]. Village Gathering Space.  
+4. Figure 2: StockCake. [n.d.]. Charity Book Distribution.  
+5. Figure 3: StockCake. [n.d.]. Community Aid Distribution.  
+6. Figure 4: StockCake. [n.d.]. Community Giving Together.  
+7. Figure 5: StockCake. [n.d.]. Volunteers Packing Food.  
+8. Figure 6: StockCake. [n.d.]. Clothing Donation Pile.  
+9. Figure 7: StockCake. [n.d.]. Charity Food Drive.  
+10. Figure 8: StockCake. [n.d.]. Volunteers Sorting Donations.  
+11. Figure 9: StockCake. [n.d.]. Volunteers Packing Food.  
+12. Figure 10: StockCake. [n.d.]. Hands Growing Community.  
+13. Figure 11: StockCake. [n.d.]. Outdoor Community Meeting.  
+14. Figure 12: StockCake. [n.d.]. Children Under Tree.  
+15. Figure 13: StockCake. [n.d.]. Village Meeting Gathering.  
+16. Figure 14: StockCake. [n.d.]. Village Gathering Space. 
 
 
