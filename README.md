@@ -156,6 +156,55 @@ Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 Available at: https://www.takealot.com/about
 [Accessed 1 August 2026].
 
+14. StockCake. [n.d.]. Village Gathering Space. [electronic print]. Available at:  
+https://stockcake.com/i/village-gathering-space_335374_722385 [Accessed 3 August 2026]. 
+
+15. StockCake. [n.d.]. Charity Book Distribution. [electronic print]. Available at:  
+https://stockcake.com/i/charity-book-distribution_1177881_679833 [Accessed 3 August 
+2026].
+
+16. StockCake. [n.d.]. Community Aid Distribution. [electronic print]. Available at:  
+https://stockcake.com/i/community-aid-distribution_3181618_1651886 [Accessed 3 August 
+2026].
+      
+17. StockCake. [n.d.]. Community Giving Together. [electronic print]. Available at:  
+https://stockcake.com/i/community-giving-together_4024659_1780875 [Accessed 3 August 
+2026].  
+
+18. StockCake. [n.d.]. Volunteers Packing Food. [electronic print]. Available at:  
+https://stockcake.com/i/volunteers-packing-food_1416183_656602 [Accessed 3 August 2026].
+  
+19. StockCake. [n.d.]. Clothing Donation Pile. [electronic print]. Available at:  
+https://stockcake.com/i/clothing-donation-pile_559676_1010687 [Accessed 3 August 2026]. 
+
+20. StockCake. [n.d.]. Charity Food Drive. [electronic print]. Available at:  
+https://stockcake.com/i/charity-food-drive_949352_1010673 [Accessed 3 August 2026].
+
+21. StockCake. [n.d.]. Volunteers Sorting Donations. [electronic print]. Available at:  
+https://stockcake.com/i/volunteers-sorting-donations_1256668_918539 [Accessed 3 August 
+2026].   
+
+22. StockCake. [n.d.]. Volunteers Packing Food. [electronic print]. Available at:  
+https://stockcake.com/i/volunteers-packing-food_1092852_816531 [Accessed 3 August 2026].
+ 
+23. StockCake. [n.d.]. Hands Growing Community. [electronic print]. Available at:  
+https://stockcake.com/i/hands-growing-community_4628656_1991300 [Accessed 3 August 
+2026].   
+
+24. StockCake. [n.d.]. Outdoor Community Meeting. [electronic print]. Available at:  
+https://stockcake.com/i/outdoor-community-meeting_1113634_790298 [Accessed 3 August 
+2026]. 
+
+25.  StockCake. [n.d.]. Children Under Tree. [electronic print]. Available at:  
+https://stockcake.com/i/children-under-tree_1394170_880295 [Accessed 3 August 2026].   
+
+26. StockCake. [n.d.]. Village Meeting Gathering. [electronic print]. Available at:  
+https://stockcake.com/i/village-meeting-gathering_1131924_751096 [Accessed 3 August 
+2026].   
+
+27.StockCake. [n.d.]. Village Gathering Space. [electronic print]. Available at:  
+https://stockcake.com/i/village-gathering-space_335374_722385 [Accessed 3 August 2026].  
+
 ## Image References for the Word Document Proposal
 1. StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
 
