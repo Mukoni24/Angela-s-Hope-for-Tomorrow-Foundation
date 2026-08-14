@@ -103,6 +103,17 @@ The mistakes made in testing will be sorted out, and the website will be made mo
 ### 9.	Final Submission: 14 August 2026
 The final website project and accompanying documentation will be submitted before the submission deadline.
 
+## Sitemap
+1. index.html
+2. aboutus.html
+3. programmes.html
+4. gallery.html
+5. news.html
+6. volunteer.html
+8. donations.html
+9. contactus.html
+10. enquiiries.html
+
 
 ## Changes made to the website
 1. Updated the website Layout
