@@ -103,6 +103,13 @@ The mistakes made in testing will be sorted out, and the website will be made mo
 ### 9.	Final Submission: 14 August 2026
 The final website project and accompanying documentation will be submitted before the submission deadline.
 
+
+## Changes made to the website
+1. Updated the website Layout
+2. Added an About Us Sect
+3. Added a News & Events
+4. Improved the Website's overall appearance
+
 ## References 
 
 ### Word document references
@@ -234,11 +241,4 @@ https://stockcake.com/i/village-gathering-space_335374_722385 [Accessed 3 August
 14. Figure 12: StockCake. [n.d.]. Children Under Tree.  
 15. Figure 13: StockCake. [n.d.]. Village Meeting Gathering.  
 16. Figure 14: StockCake. [n.d.]. Village Gathering Space.
-
-## Changes made to the website
-1. Updated the website Layout
-2. Added an About Us Sect
-3. Added a News & Events
-4. Improved the Website's overall appearance
-
 
