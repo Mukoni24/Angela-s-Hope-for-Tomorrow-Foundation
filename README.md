@@ -103,7 +103,15 @@ The mistakes made in testing will be sorted out, and the website will be made mo
 ### 9.	Final Submission: 14 August 2026
 The final website project and accompanying documentation will be submitted before the submission deadline.
 
-## References for Word Document Proposal
+## References 
+
+### Word document references
+1. StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
+
+2. StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
+   
+
+### Website references
 1. Anon., n.d. About us.Afrika Tikkun. [Online] 
 Available at: https://afrikatikkun.org/about-us/
 [Accessed 1 August 2026].
@@ -205,11 +213,6 @@ https://stockcake.com/i/village-meeting-gathering_1131924_751096 [Accessed 3 Aug
 27.StockCake. [n.d.]. Village Gathering Space. [electronic print]. Available at:  
 https://stockcake.com/i/village-gathering-space_335374_722385 [Accessed 3 August 2026].  
 
-## Image References for the Word Document Proposal
-1. StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
-
-2. StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
-   
 ###  List of Figures: 
 #### Word Document Figures
 1. Figure 2: StockCake. 2026.Sharing community spirit.
@@ -230,6 +233,12 @@ https://stockcake.com/i/village-gathering-space_335374_722385 [Accessed 3 August
 13. Figure 11: StockCake. [n.d.]. Outdoor Community Meeting.  
 14. Figure 12: StockCake. [n.d.]. Children Under Tree.  
 15. Figure 13: StockCake. [n.d.]. Village Meeting Gathering.  
-16. Figure 14: StockCake. [n.d.]. Village Gathering Space. 
+16. Figure 14: StockCake. [n.d.]. Village Gathering Space.
+
+## Changes made to the website
+1. Updated the website Layout
+2. Added an About Us Sect
+3. Added a News & Events
+4. Improved the Website's overall appearance
 
 
