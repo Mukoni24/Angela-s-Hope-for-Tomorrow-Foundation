@@ -145,7 +145,6 @@ Updated website design and added CSS styling
 
 2. StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
    
-
 ### Website references
 1. Anon., n.d. About us.Afrika Tikkun. [Online] 
 Available at: https://afrikatikkun.org/about-us/
