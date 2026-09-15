@@ -125,18 +125,18 @@ The final website project and accompanying documentation will be submitted befor
 ### Part 2
 Updated website design and added CSS styling
 
-- Added a separate CSS stylesheet to improve the overall appearance of the website.
-- Added a consistent green, white and light-grey colour scheme.
-- Added custom fonts, font sizes, colours and text alignment.
-- Improved spacing, margins and padding throughout the pages.
-- Styled the navigation bar and added hover effects for links.
-- Added green containers/cards for the Community Programmes.
-- Added horizontal containers for News & Events and Upcoming Events.
-- Improved the layout and positioning of headings, paragraphs and images.
-- Added styling to the footer and organised its information into sections.
-- Improved the Enquiries and FAQ sections for better presentation.
-- Added rounded corners and visual styling to content containers.
-- Made the website more organised and visually consistent compared with the original HTML-only version.
+1. Added a separate CSS stylesheet to improve the overall appearance of the website.
+2. Added a consistent green, white and light-grey colour scheme.
+3. Added custom fonts, font sizes, colours and text alignment.
+4. Improved spacing, margins and padding throughout the pages.
+5. Styled the navigation bar and added hover effects for links.
+6. Added green containers/cards for the Community Programmes.
+7. Added horizontal containers for News & Events and Upcoming Events.
+8. Improved the layout and positioning of headings, paragraphs and images.
+9. Added styling to the footer and organised its information into sections.
+10. Improved the Enquiries and FAQ sections for better presentation.
+11. Added rounded corners and visual styling to content containers.
+12. Made the website more organised and visually consistent compared with the original HTML-only version.
 
 ## References 
 
