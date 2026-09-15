@@ -116,10 +116,27 @@ The final website project and accompanying documentation will be submitted befor
 
 
 ## Changes made to the website
+### Part 1
 1. Updated the website Layout
 2. Added an About Us Sect
 3. Added a News & Events
 4. Improved the Website's overall appearance
+
+### Part 2
+Updated website design and added CSS styling
+
+- Added a separate CSS stylesheet to improve the overall appearance of the website.
+- Added a consistent green, white and light-grey colour scheme.
+- Added custom fonts, font sizes, colours and text alignment.
+- Improved spacing, margins and padding throughout the pages.
+- Styled the navigation bar and added hover effects for links.
+- Added green containers/cards for the Community Programmes.
+- Added horizontal containers for News & Events and Upcoming Events.
+- Improved the layout and positioning of headings, paragraphs and images.
+- Added styling to the footer and organised its information into sections.
+- Improved the Enquiries and FAQ sections for better presentation.
+- Added rounded corners and visual styling to content containers.
+- Made the website more organised and visually consistent compared with the original HTML-only version.
 
 ## References 
 
