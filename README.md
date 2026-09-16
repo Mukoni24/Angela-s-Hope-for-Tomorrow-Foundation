@@ -121,23 +121,7 @@ The final website project and accompanying documentation will be submitted befor
 2. Added an About Us Sect
 3. Added a News & Events
 4. Improved the Website's overall appearance
-
-### Part 2
-Updated website design and added CSS styling
-
-1. Added a separate CSS stylesheet to improve the overall appearance of the website.
-2. Added a consistent green, white and light-grey colour scheme.
-3. Added custom fonts, font sizes, colours and text alignment.
-4. Improved spacing, margins and padding throughout the pages.
-5. Styled the navigation bar and added hover effects for links.
-6. Added green containers/cards for the Community Programmes.
-7. Added horizontal containers for News & Events and Upcoming Events.
-8. Improved the layout and positioning of headings, paragraphs and images.
-9. Added styling to the footer and organised its information into sections.
-10. Improved the Enquiries and FAQ sections for better presentation.
-11. Added rounded corners and visual styling to content containers.
-12. Made the website more organised and visually consistent compared with the original HTML-only version.
-
+   
 ## References 
 
 ### Word document references
@@ -247,12 +231,6 @@ https://stockcake.com/i/village-meeting-gathering_1131924_751096 [Accessed 3 Aug
 27. StockCake. [n.d.]. Village Gathering Space. [electronic print]. Available at:  
 https://stockcake.com/i/village-gathering-space_335374_72238 [Accessed 3 August 2026].  
 
-### Part 2 Referencing
-28. MDN Web Docs (n.d.) Backgrounds and borders. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Backgrounds_and_borders [Accessed: 15 September 2026]. 
-
-29. W3Schools (n.d.) CSS Tutorial. Available at: https://www.w3schools.com/css/ [Accessed: 15 September 2026]. 
-
-30. W3Schools (n.d.) HTML and CSS Tutorial. Available at: https://www.w3schools.com/htmlcss/ [Accessed: 15 September 2026].
 ###  List of Figures: 
 #### Word Document:  Figures
 1. Figure 2: StockCake. 2026.Sharing community spirit.
